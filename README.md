@@ -27,25 +27,28 @@ Dự án này cung cấp các Userscript cho phép người dùng tải xuống 
 - **Tính năng:** Giao diện kéo thả, tải video và ảnh bìa song song, lưu tiến trình (tải lại thông minh), thanh tiến trình, nút hủy, xem trước video khi chọn.
 - **File:** `Lite/douyin-downloader-lite.user.js`
 
-## Cài Đặt
-Để sử dụng các Userscript này, bạn cần cài đặt một trình quản lý Userscript như Tampermonkey (khuyến nghị) hoặc Violentmonkey.
+## Cài Đặt Userscript
 
-1.  **Cài đặt Tampermonkey:**
-    * Tải Tampermonkey cho trình duyệt của bạn (Chrome, Firefox, Edge, Opera) từ cửa hàng tiện ích mở rộng tương ứng.
-2.  **Cài đặt Userscript:**
-    * Truy cập file `.user.js` của phiên bản bạn muốn cài đặt trên GitHub (ví dụ: [link đến douyin-downloader-lite.user.js](https://github.com/your-username/your-repo-name/blob/main/Lite/douyin-downloader-lite.user.js)).
-    * Nhấp vào nút "Raw" để mở mã nguồn thô.
-    * Tampermonkey sẽ tự động hỏi bạn có muốn cài đặt script này không. Nhấp vào "Install".
+Để sử dụng các Userscript này, bạn cần cài đặt một trình quản lý Userscript như [Tampermonkey](https://www.tampermonkey.net/) (khuyến nghị) hoặc [Violentmonkey](https://violentmonkey.github.io/).
+
+1.  **Cài đặt trình quản lý Userscript** cho trình duyệt của bạn (nếu chưa có).
+2.  **Nhấp vào liên kết cài đặt** của phiên bản bạn muốn:
+    * **[Cài đặt Douyin Downloader Lite](https://github.com/Froglee25/douyin-downloader-userscripts/raw/refs/heads/main/Lite/douyin-downloader-lite.user.js)**
+    * **[Cài đặt Douyin Downloader Pro](https://github.com/Froglee25/douyin-downloader-userscripts/raw/refs/heads/main/Pro/douyin-downloader-pro.user.js)**
+    *(Lưu ý: Hãy đảm bảo rằng các đường dẫn `Froglee25` và `douyin-downloader-userscripts` trong liên kết là chính xác với tên người dùng và tên kho lưu trữ của bạn.)*
+3.  Trình quản lý Userscript sẽ tự động mở và hỏi bạn có muốn cài đặt script này không. Nhấp vào "Install" (Cài đặt) hoặc "Confirm" (Xác nhận).
 
 ## Sử Dụng
+
 1.  Truy cập một trang hồ sơ người dùng Douyin (ví dụ: `https://www.douyin.com/user/xxxxxx`).
-2.  Giao diện Douyin Downloader sẽ xuất hiện ở góc trên bên phải màn hình.
+2.  Giao diện Douyin Downloader (Lite hoặc Pro) sẽ xuất hiện ở góc trên bên phải màn hình.
 3.  Nhấp vào nút "Tìm & Tải Video" (hoặc "Bắt đầu") để bắt đầu quá trình.
 4.  Làm theo hướng dẫn trên giao diện để chọn video và tải xuống.
 
 ## Liên Hệ
+
 Nếu bạn có bất kỳ câu hỏi, góp ý hoặc cần hỗ trợ, vui lòng liên hệ với tôi qua:
-- https://www.facebook.com/uchung.138781/
+- https://t.me/hung_cg
 
 ## Giấy Phép
 Dự án này được cấp phép theo [Tên Giấy phép] License - xem file [LICENSE.md](LICENSE.md) để biết thêm chi tiết.
