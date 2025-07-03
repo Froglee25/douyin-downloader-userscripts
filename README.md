@@ -35,7 +35,6 @@ Dự án này cung cấp các Userscript cho phép người dùng tải xuống 
 2.  **Nhấp vào liên kết cài đặt** của phiên bản bạn muốn:
     * **[Cài đặt Douyin Downloader Lite](https://github.com/Froglee25/douyin-downloader-userscripts/raw/refs/heads/main/Lite/douyin-downloader-lite.user.js)**
     * **[Cài đặt Douyin Downloader Pro](https://github.com/Froglee25/douyin-downloader-userscripts/raw/refs/heads/main/Pro/douyin-downloader-pro.user.js)**
-    *(Lưu ý: Hãy đảm bảo rằng các đường dẫn `Froglee25` và `douyin-downloader-userscripts` trong liên kết là chính xác với tên người dùng và tên kho lưu trữ của bạn.)*
 3.  Trình quản lý Userscript sẽ tự động mở và hỏi bạn có muốn cài đặt script này không. Nhấp vào "Install" (Cài đặt) hoặc "Confirm" (Xác nhận).
 
 ## Sử Dụng
